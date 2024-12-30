@@ -16,5 +16,5 @@ tags:
 | **dis**     |               |              |            |             |
 | **sup**     | [[supervise]] |              |            |             |
 | **sus**     |               |              |            |             |
-| ad          | [[advise]]    |              |            |             |
+| **ad**      | [[advise]]    |              |            |             |
 |             | [[devise]]    |              |            |             |
